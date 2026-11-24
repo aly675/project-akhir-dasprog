@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environment (jaga-jaga kalau nanti pakai)
+# Virtual environment
 venv/
 .venv/
 env/
