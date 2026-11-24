@@ -1,0 +1,32 @@
+id_film,judul,sinopsis,tahun,sutradara,genre,durasi
+M001,tes,tes,tes,tes,tes,tes
+M003,Interstellar,Tim penjelajah luar angkasa melewati lubang cacing demi mencari planet baru yang layak huni bagi umat manusia.,2014,Christopher Nolan,"Adventure, Drama, Sci-Fi",169
+M004,Parasite,Keluarga miskin menyusup bekerja di rumah keluarga kaya raya dengan menyamar sebagai pekerja profesional.,2019,Bong Joon-ho,"Thriller, Drama",132
+M005,The Dark Knight,Batman menghadapi ancaman kekacauan besar di Gotham City yang didalangi oleh kriminal jenius bernama Joker.,2008,Christopher Nolan,"Action, Crime",152
+M006,Spirited Away,Seorang gadis kecil terjebak di dunia roh dan harus bekerja di pemandian dewa demi menyelamatkan orang tuanya.,2001,Hayao Miyazaki,"Animation, Fantasy",125
+M007,Whiplash,Seorang drummer jazz muda yang ambisius dididik dengan metode keras dan ekstrem oleh instruktur musik perfeksionis di konservatorium bergengsi.,2014,Damien Chazelle,"Drama, Music",106
+M008,The Shawshank Redemption,Seorang bankir yang dipenjara atas tuduhan pembunuhan istrinya menjalin persahabatan erat selama puluhan tahun sambil merencanakan pelarian.,1994,Frank Darabont,Drama,142
+M009,Pulp Fiction,"Kisah kehidupan dua pembunuh bayaran, seorang petinju, istri gangster, dan pasangan perampok yang saling bertautan di Los Angeles.",1994,Quentin Tarantino,"Crime, Drama",154
+M010,The Godfather,Patriark sebuah dinasti kejahatan terorganisir di New York mewariskan kendali kerajaan bawah tanahnya kepada putra bungsunya yang enggan terlibat.,1972,Francis Ford Coppola,"Crime, Drama",175
+M011,Forrest Gump,Pria berhati tulus dengan IQ di bawah rata-rata secara tidak sengaja menyaksikan dan memengaruhi berbagai peristiwa sejarah penting Amerika Serikat.,1994,Robert Zemeckis,"Drama, Romance",142
+M012,The Matrix,Seorang peretas komputer mengetahui bahwa realitas yang ia jalani hanyalah simulasi buatan mesin cerdas yang memperbudak umat manusia.,1999,Lana Wachowski,"Action, Sci-Fi",136
+M013,Fight Club,Seorang pekerja kantoran yang mengalami insomnia membentuk klub pertarungan bawah tanah bersama penjual sabun karismatik bernama Tyler Durden.,1999,David Fincher,Drama,139
+M014,Your Name,Dua remaja asing yang tinggal di kota dan desa Jepang tiba-tiba saling bertukar tubuh secara misterius dan berusaha bertemu satu sama lain.,2016,Makoto Shinkai,"Animation, Romance, Fantasy",106
+M015,Spider-Man: Into the Spider-Verse,Remaja bernama Miles Morales menjadi Spider-Man baru dan harus bekerja sama dengan pahlawan laba-laba dari berbagai dimensi untuk menyelamatkan multisemesta.,2018,Bob Persichetti,"Animation, Action, Adventure",117
+M016,Dune: Part Two,Paul Atreides bersatu dengan Chani dan bangsa Fremen untuk membalas dendam terhadap para konspirator yang menghancurkan keluarganya di planet Arrakis.,2024,Denis Villeneuve,"Sci-Fi, Adventure, Drama",166
+M017,Oppenheimer,Kisah fisikawan teoritis J. Robert Oppenheimer dalam memimpin Proyek Manhattan untuk mengembangkan senjata nuklir pertama selama Perang Dunia II.,2023,Christopher Nolan,"Biography, Drama, History",180
+M018,La La Land,Seorang pianis jazz dan aktris pemula di Los Angeles jatuh cinta sambil berjuang mengejar impian karier masing-masing di tengah kerasnya kota.,2016,Damien Chazelle,"Drama, Music, Romance",128
+M019,The Prestige,Dua pesulap panggung di London era Victoria terlibat persaingan obsesif yang mematikan demi menciptakan ilusi teleportasi paling sempurna.,2006,Christopher Nolan,"Drama, Mystery, Sci-Fi",130
+M020,Shutter Island,Dua marsekal AS menyelidiki hilangnya seorang pasien pembunuh dari rumah sakit jiwa di pulau terpencil yang menyimpan rahasia kelam.,2010,Martin Scorsese,"Mystery, Thriller",138
+M021,Get Out,Seorang fotografer muda berkulit hitam mengungkap rahasia mengerikan saat bertemu keluarga kekasih kulit putihnya di perkebunan terpencil.,2017,Jordan Peele,"Horror, Mystery, Thriller",104
+M022,Knives Out,Seorang detektif eksentrik menyelidiki kematian misterius penulis novel kriminal kaya raya di tengah anggota keluarganya yang serakah.,2019,Rian Johnson,"Comedy, Crime, Mystery",130
+M023,The Truman Show,Seorang pria tidak menyadari bahwa seluruh hidupnya sejak lahir sebenarnya adalah acara televisi realitas yang ditonton miliaran orang.,1998,Peter Weir,"Comedy, Drama",103
+M024,Coco,Seorang anak laki-laki Meksiko yang bermimpi menjadi musisi secara tidak sengaja masuk ke Negeri Orang Mati dan mengungkap rahasia leluhurnya.,2017,Lee Unkrich,"Animation, Adventure, Family",105
+M025,The Raid,Tim pasukan khusus polisi terjebak di gedung apartemen kumuh di Jakarta yang dikuasai gembong narkoba kejam dan harus bertarung untuk bertahan hidup.,2011,Gareth Evans,"Action, Crime, Thriller",101
+M026,Pengabdi Setan,"Setelah ibu mereka meninggal dunia akibat penyakit misterius, sebuah keluarga mulai diteror oleh arwah sang ibu dan sekte pemuja setan.",2017,Joko Anwar,"Horror, Mystery",107
+M027,Laskar Pelangi,Kisah perjuangan sepuluh anak dari keluarga miskin di Pulau Belitung dalam menempuh pendidikan di sekolah dasar yang nyaris roboh.,2008,Riri Riza,Drama,125
+M028,3 Idiots,Dua sahabat melakukan perjalanan mencari teman kuliah mereka yang hilang sambil mengenang bagaimana ia menginspirasi mereka melawan sistem pendidikan kaku.,2009,Rajkumar Hirani,"Comedy, Drama",170
+M029,Mad Max: Fury Road,"Di gurun pasca-apokaliptik, seorang wanita pemberontak melarikan diri dari penguasa tirani bersama sekelompok tawanan dibantu pengemudi penyendiri.",2015,George Miller,"Action, Adventure, Sci-Fi",120
+M030,Everything Everywhere All at Once,Seorang pemilik binatu imigran paruh baya terseret ke dalam petualangan gila melintasi multisemesta untuk menghentikan kekuatan jahat.,2022,Daniel Kwan,"Anction, Comedy",139
+M031,Test,test,2000,Test,Test,120
+M033,Dajbsjk,mdfkjfb,2000,Dklabsdjlbaw,Jbdbad,210

@@ -1,0 +1,10 @@
+id,username,password,nama,role,created_at
+1,admin,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,Administrator,admin,2026-11-17 20:00:00
+2,billy,fe4f039cbdcb5d3e65192efd7ac2c3e57e06741bc712b32655cca3bb1392b70a,Billy Caesar Rajawali,user,2026-11-17 23:57:32
+3,danova,b69f50bab770e0464c43dbc80d7511559009af1f165d36af67ba52f4fc4f8170,Danova Adriansyah,user,2026-11-18 00:37:49
+4,hibattt,3f3e09552b927776f0da2abdceed7d13b05b48cb82ecfd6a2c2748b97a46b605,Hibatttt,admin,2026-11-18 07:59:08
+5,ahza,cc8f12c17942f8cbc6240d18eab733ac8054e35efc9cb7ac1fb547eced49fa64,Ahza Dwi Cahyo,user,2026-11-18 07:59:37
+6,billy1,fe4f039cbdcb5d3e65192efd7ac2c3e57e06741bc712b32655cca3bb1392b70a,Billy Caesar,user,2026-11-23 23:18:35
+7,billy2,fe4f039cbdcb5d3e65192efd7ac2c3e57e06741bc712b32655cca3bb1392b70a,Billy,user,2026-11-23 23:20:16
+8,billy3,fe4f039cbdcb5d3e65192efd7ac2c3e57e06741bc712b32655cca3bb1392b70a,Bill,user,2026-11-23 23:28:24
+9,dano,5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5,Hiugalak,user,2026-11-24 16:56:19

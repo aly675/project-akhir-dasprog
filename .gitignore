@@ -1,0 +1,15 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (jaga-jaga kalau nanti pakai)
+venv/
+.venv/
+env/
+
+# File konfigurasi IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

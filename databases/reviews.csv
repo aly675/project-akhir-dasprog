@@ -1,0 +1,7 @@
+id_review,id_film,username,rating,komentar,created_at
+R002,M001,billy1,4.5,boleh laahhh,2026-11-23 23:19:33
+R003,M001,billy2,5,gatauiiii,2026-11-23 23:21:48
+R004,M001,billy3,4,mang eak?,2026-11-23 23:29:51
+R005,M010,dano,2,,2026-11-24 17:27:53
+R006,M003,dano,4,bagus,2026-11-24 17:32:18
+R007,M032,dano,3,yahaha,2026-11-24 17:33:23
